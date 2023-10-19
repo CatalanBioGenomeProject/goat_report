@@ -23,10 +23,12 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
       
-      - name: Install required NCBI packages
+      - name: Download Goat Report
         run: |
-          #retrieve packages and set permissions
+          #retrieve report from portal api
           curl -o goat_report.tsv 'https://dades.biogenoma.cat/api/goat_report'
           
       - name: Commit & Push changes
         uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
