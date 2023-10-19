@@ -1,0 +1,57 @@
+# project_name	CBP																								
+# subproject_name																									
+# primary_contact	Montserrat Corominas																								
+# primary_contact_institution	UB, 08028, Spain																								
+# primary_contact_email	mcorominas@ub.edu																								
+# date_of_update	2023-03-02																								
+# schema_version	ebp_species_goat_2.5																														
+ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	synonym	publication_id
+74358	Podarcis lilfordi			long_list	publication_available		10.1093/dnares/dsad008
+142104	Corallium rubrum			other_priority	in_assembly		
+7640	Arbacia lixula			long_list	sample_collected		
+317549	Paramuricea clavata			other_priority	publication_available		10.1534/g3.120.401371
+317548	Eunicella singularis			other_priority	sample_collected		
+124278	Alcyonium acaule			other_priority	sample_collected		
+33610	Gypaetus barbatus			other_priority	insdc_submitted		
+246179	Vipera latastei			long_list	sample_collected		
+342570	Calotriton arnoldi			other_priority	sample_collected		
+353214	Caecitellus pseudoparvulus			long_list	sample_collected		
+353213	Caecitellus paraparvulus			long_list	sample_collected		
+89770	Paraphysomonas bandaiensis			long_list	sample_collected		
+37642	Paraphysomonas imperforata			long_list	sample_collected		
+133233	Achillea ptarmica			long_list	in_assembly		
+61904	Belisarius xambeui			long_list	in_assembly		
+13765	Xyrichtys novacula			long_list	publication_available		10.1093/dnares/dsad021
+130055	Cladocora caespitosa			long_list	sample_collected		
+48681	Puffinus mauretanicus			other_priority	publication_available		10.1093/gbe/evac067
+7726	Styela plicata			long_list	sample_collected		
+7740	Branchiostoma lanceolatum			long_list	publication_available		10.1186/s13059-022-02808-6
+8959	Aegypius monachus			other_priority	in_assembly		
+27890	Dugesia subtentaculata			long_list	sample_acquired		
+28930	Fagus sylvatica			long_list	in_assembly		
+33608	Neophron percnopterus			other_priority	in_assembly		
+34765	Oikopleura dioica			long_list	in_assembly		
+48915	Diplodus puntazzo			long_list	sample_collected		
+64176	Podarcis muralis			long_list	sample_acquired		
+89891	Derocheilocaris remanei			family_representative	sample_acquired		
+172826	Amastigomonas sp.			long_list	in_assembly		
+242261	Coenonympha glycerion			long_list	sample_acquired		
+390489	Dugastella valentina			other_priority	data_generation		
+595358	Cyclops abyssorum			long_list	data_generation		
+627345	Emberiza schoeniclus witherbyi			other_priority	data_generation		
+1504802	Cyperus esculentus var. sativus			long_list	sample_acquired		
+2766786	Mediocremonas mediterraneus			other_priority	in_assembly		
+2795559	Helleia helle			long_list	sample_acquired		
+398063	Capra pyrenaica pyrenaica			long_list	sample_acquired		
+593788	Ericaria mediterranea			other_priority	sample_acquired		
+163714	Cyprideis torosa			family_representative	sample_collected		
+203899	Tethysbaena scabra			long_list	in_assembly		
+1031547	Clathrina clathrus			long_list	in_assembly		
+27923	Mnemiopsis leidyi			long_list	in_assembly		
+178818	Iberolacerta aurelioi				sample_collected		
+2850456	Dendrodoris temarana			long_list	sample_collected		
+48815	Ramonda myconi			other_priority	data_generation		
+2890050	Xatardia scabra			long_list	sample_collected		
+2815560	Sensonator valentiensis			family_representative	in_assembly		
+991102	Norana najaformis			long_list	sample_collected		
+2925341	Singekia montserratensis			other_priority	sample_collected		
