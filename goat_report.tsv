@@ -55,3 +55,6 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 2815560	Sensonator valentiensis			family_representative	in_assembly		
 991102	Norana najaformis			long_list	sample_collected		
 2925341	Singekia montserratensis			other_priority	sample_collected		
+1519619	Telema tenella			other_priority	sample_acquired		
+157065	Stenasellus virei			other_priority	sample_acquired		
+416634	Parvospeonomus canyellesi			other_priority	sample_acquired		
