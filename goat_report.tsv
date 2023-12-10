@@ -48,7 +48,7 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 203899	Tethysbaena scabra			long_list	in_assembly		
 1031547	Clathrina clathrus			long_list	in_assembly		
 27923	Mnemiopsis leidyi			long_list	in_assembly		
-178818	Iberolacerta aurelioi				sample_collected		
+178818	Iberolacerta aurelioi			long_list	sample_collected		
 2850456	Dendrodoris temarana			long_list	sample_collected		
 48815	Ramonda myconi			other_priority	data_generation		
 2890050	Xatardia scabra			long_list	sample_collected		
@@ -58,3 +58,9 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 1519619	Telema tenella			other_priority	sample_acquired		
 157065	Stenasellus virei			other_priority	sample_acquired		
 416634	Parvospeonomus canyellesi			other_priority	sample_acquired		
+186548	Coronella girondica			long_list	sample_collected		
+299743	Macroprotodon mauritanicus			long_list	sample_collected		
+299739	Macroprotodon brevis ibericus			long_list	sample_collected		
+122933	Zamenis scalaris			long_list	sample_collected		
+166085	Hierophis viridiflavus			long_list	sample_collected		
+1768099	Natrix astreptophora			long_list	sample_collected		
