@@ -41,7 +41,7 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 627345	Emberiza schoeniclus witherbyi			other_priority	data_generation		
 1504802	Cyperus esculentus var. sativus			long_list	sample_acquired		
 2766786	Mediocremonas mediterraneus			other_priority	in_assembly		
-2795559	Helleia helle			long_list	sample_acquired		
+2795559	Helleia helle			long_list	insdc_submitted		
 398063	Capra pyrenaica pyrenaica			long_list	sample_acquired		
 593788	Ericaria mediterranea			other_priority	sample_acquired		
 163714	Cyprideis torosa			family_representative	sample_collected		
