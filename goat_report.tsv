@@ -31,7 +31,7 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 28930	Fagus sylvatica			long_list	in_assembly		
 33608	Neophron percnopterus			other_priority	in_assembly		
 34765	Oikopleura dioica			long_list	in_assembly		
-48915	Diplodus puntazzo			long_list	sample_collected		
+48915	Diplodus puntazzo			long_list	insdc_submitted		
 64176	Podarcis muralis			long_list	sample_acquired		
 89891	Derocheilocaris remanei			family_representative	sample_acquired		
 172826	Amastigomonas sp.			long_list	in_assembly		
