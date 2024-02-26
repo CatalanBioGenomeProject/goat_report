@@ -20,7 +20,7 @@ body:
     id: scientific_name
     attributes:
       label: Species scientific name
-      placeholder: ex: Homo sapiens
+      placeholder: ex. Homo sapiens
     validations:
       required: true
   - type: dropdown
