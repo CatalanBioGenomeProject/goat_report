@@ -1,64 +1,47 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
+name: Species Status Report
+description: Create a species status report
+title: "Species name: "
+projects: ["CatalanBioGenomeProject/2"]
 assignees:
   - octocat
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Fill all the form to create a sequencing status report of your species
   - type: input
-    id: contact
+    id: taxid
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: NCBI Taxonomic identifier
+      placeholder: ex. 9606
     validations:
-      required: false
-  - type: textarea
-    id: what-happened
+      required: true
+  - type: input
+    id: scientific_name
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Species scientific name
+      placeholder: ex: Homo sapiens
     validations:
       required: true
   - type: dropdown
-    id: version
+    id: target_list_status
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: Target List status
+      description: Target lists express the goals or desiderata of projects, as expressed in lists of which species they intend to generate reference sequences for
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - long_list
+        - family_representative
+        - other_priority
       default: 0
     validations:
       required: true
   - type: dropdown
-    id: browsers
+    id: sequencing_status
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
+      label: Species sequencing status
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+        - sample_collected
+        - sample_acquired
+        - data_generation
+        - in_assembly
+
