@@ -39,6 +39,7 @@ body:
     id: sequencing_status
     attributes:
       label: Species sequencing status
+      description: Information on activity in sourcing and genome sequencing of species
       options:
         - sample_collected
         - sample_acquired
