@@ -64,3 +64,8 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 122933	Zamenis scalaris			long_list	sample_collected		
 166085	Hierophis viridiflavus			long_list	sample_collected		
 1768099	Natrix astreptophora			long_list	sample_collected		
+130472	Symphodus ocellatus			long_list	data_generation		
+202600	Symphodus tinca			long_list	data_generation		
+7685	Holothuria tubulosa			long_list	data_generation		
+491805	Holothuria mammata			long_list	data_generation		
+159417	Clavelina lepadiformis				insdc_submitted		
