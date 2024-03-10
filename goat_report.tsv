@@ -68,4 +68,4 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 202600	Symphodus tinca			long_list	data_generation		
 7685	Holothuria tubulosa			long_list	data_generation		
 491805	Holothuria mammata			long_list	data_generation		
-159417	Clavelina lepadiformis				insdc_submitted		
+159417	Clavelina lepadiformis			long_list	insdc_submitted		
